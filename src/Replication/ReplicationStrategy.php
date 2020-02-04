@@ -216,7 +216,6 @@ class ReplicationStrategy
     {
         return array(
             'SHUTDOWN' => true,
-            'INFO' => true,
             'DBSIZE' => true,
             'LASTSAVE' => true,
             'CONFIG' => true,
